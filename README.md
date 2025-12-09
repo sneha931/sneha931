@@ -1,16 +1,12 @@
-## Hi there 👋
+**👋 Hi , I'm sneha **
 
-<!--
-**sneha931/sneha931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Full Stack Developer | MERN Stack | AI Enthusiast **
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  You can find all my projects here: (sneha931)[https://github.com/sneha931
+]
+- 🌱 I’m currently learning AI
+- 🚀 Passionate about building full-stack and AI-powered applications
+- 👯 Open to collaborating on web dev / AI projects
+- 💬 Ask me about React, Node.js, Python, Django, ML
+- 📫 Connect with me on (Linkedin)[https://www.linkedin.com/in/veerapareddy-sneha/]
+- ⚡ Fun fact: I love turning ideas into real working projects!
