@@ -12,4 +12,9 @@
 - ⚡ Fun fact: I love turning ideas into real working projects!
 
 ## Tech stack
-<img src="https://skillicons.dev/icons?i=html,css,js,react,node,mysql,mongodb,next,django,github,python,c,java" style="padding:5px"/>
+<img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,mysql,mongodb,next,django,github,python,c,java" style="padding:5px"/>
