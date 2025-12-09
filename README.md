@@ -17,7 +17,7 @@
 <!-- <img src="https://skillicons.dev/icons?i=html" width="30"/>       <img src="https://skillicons.dev/icons?i=css" width="30"/>       <img src="https://skillicons.dev/icons?i=js" width="30"/>          <img src="https://skillicons.dev/icons?i=react" width="30"/>         <img src="https://skillicons.dev/icons?i=nextjs" width="30"/>   <img src="https://skillicons.dev/icons?i=nodejs" width="30"/>   <img src="https://skillicons.dev/icons?i=express" width="30"/>        <img src="https://skillicons.dev/icons?i=django" width="30" />  <img src="https://skillicons.dev/icons?i=python" width="30" />         <img src="https://skillicons.dev/icons?i=mysql" width="30"/>          <img src="https://skillicons.dev/icons?i=mongodb" width="30" />        <img src="https://skillicons.dev/icons?i=tensorflow" width="30"/>     <img src="https://skillicons.dev/icons?i=git" width="30"/>            <img src="https://skillicons.dev/icons?i=github" width="30"/>          <img src="https://skillicons.dev/icons?i=vscode" width="30"/>       <img src="https://skillicons.dev/icons?i=postman" width="30"/>      <img src="https://skillicons.dev/icons?i=docker" width="30"/>  -->
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="30" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=html" width="20" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=css" width="30" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=js" width="30" style="margin-right:10px;" />
   <img src="https://skillicons.dev/icons?i=react" width="30" style="margin-right:10px;" />
