@@ -13,4 +13,10 @@
 
 ## Tech stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,mysql,mongodb,next,django,github,python,c,java" style="padding-right:15px;"/>
+<!-- <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,mysql,mongodb,next,django,github,python,c,java" style="padding-right:15px;"/> -->
+<img src="https://skillicons.dev/icons?i=html" width="40" style="padding-right:15px;" />
+<img src="https://skillicons.dev/icons?i=css" width="40" style="padding-right:15px;" />
+<img src="https://skillicons.dev/icons?i=js" width="40" style="padding-right:15px;" />
+<img src="https://skillicons.dev/icons?i=react" width="40" style="padding-right:15px;" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="40" />
+
