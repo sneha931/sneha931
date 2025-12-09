@@ -1,6 +1,6 @@
-👋 **Hi , I'm sneha**
+##👋 Hi , I'm sneha
 
-**Full Stack Developer | MERN Stack | AI Enthusiast**
+###Full Stack Developer | MERN Stack | AI Enthusiast
 
 -  You can find all my projects here: [sneha931](https://github.com/sneha931)
   
@@ -11,4 +11,5 @@
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/veerapareddy-sneha/)
 - ⚡ Fun fact: I love turning ideas into real working projects!
 
-**Tech stack**
+## Tech stack
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
