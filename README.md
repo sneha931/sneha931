@@ -1,4 +1,4 @@
-**👋 Hi , I'm sneha**
+👋 **Hi , I'm sneha**
 
 **Full Stack Developer | MERN Stack | AI Enthusiast**
 
