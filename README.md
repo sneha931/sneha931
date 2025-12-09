@@ -1,6 +1,6 @@
-**👋 Hi , I'm sneha **
+**👋 Hi , I'm sneha**
 
-** Full Stack Developer | MERN Stack | AI Enthusiast **
+**Full Stack Developer | MERN Stack | AI Enthusiast**
 
 -  You can find all my projects here: (sneha931)[https://github.com/sneha931
 ]
