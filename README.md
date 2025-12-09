@@ -12,11 +12,7 @@
 - ⚡ Fun fact: I love turning ideas into real working projects!
 
 ## Tech stack
-
- <!--<img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,mysql,mongodb,next,django,github,python,c,java" width="30"/> -->
-<!-- <img src="https://skillicons.dev/icons?i=html" width="30"/>       <img src="https://skillicons.dev/icons?i=css" width="30"/>       <img src="https://skillicons.dev/icons?i=js" width="30"/>          <img src="https://skillicons.dev/icons?i=react" width="30"/>         <img src="https://skillicons.dev/icons?i=nextjs" width="30"/>   <img src="https://skillicons.dev/icons?i=nodejs" width="30"/>   <img src="https://skillicons.dev/icons?i=express" width="30"/>        <img src="https://skillicons.dev/icons?i=django" width="30" />  <img src="https://skillicons.dev/icons?i=python" width="30" />         <img src="https://skillicons.dev/icons?i=mysql" width="30"/>          <img src="https://skillicons.dev/icons?i=mongodb" width="30" />        <img src="https://skillicons.dev/icons?i=tensorflow" width="30"/>     <img src="https://skillicons.dev/icons?i=git" width="30"/>            <img src="https://skillicons.dev/icons?i=github" width="30"/>          <img src="https://skillicons.dev/icons?i=vscode" width="30"/>       <img src="https://skillicons.dev/icons?i=postman" width="30"/>      <img src="https://skillicons.dev/icons?i=docker" width="30"/>  -->
-
-<p align="center">
+<p >
 <img src="https://skillicons.dev/icons?i=html" width="30" />&nbsp;
 <img src="https://skillicons.dev/icons?i=css" width="30" />&nbsp;
 <img src="https://skillicons.dev/icons?i=js" width="30" />&nbsp;
